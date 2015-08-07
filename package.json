@@ -1,6 +1,6 @@
 {
   "name": "galenframework-protractor-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2-dev",
   "description": "An protractor plugin to connect Galenframework with Protractor for page interaction",
   "homepage": "https://github.com/hypery2k/galenframework-protractor-plugin",
   "bugs": {
